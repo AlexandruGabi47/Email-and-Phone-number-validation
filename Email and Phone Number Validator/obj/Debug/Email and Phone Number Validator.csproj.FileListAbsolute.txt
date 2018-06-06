@@ -1,0 +1,10 @@
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\bin\Debug\Email and Phone Number Validator.exe.config
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\bin\Debug\Email and Phone Number Validator.exe
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\bin\Debug\Email and Phone Number Validator.pdb
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\obj\Debug\Email and Phone Number Validator.csprojAssemblyReference.cache
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\obj\Debug\WFProject.Form1.resources
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\obj\Debug\Email_and_Phone_Number_Validator.Properties.Resources.resources
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\obj\Debug\Email and Phone Number Validator.csproj.GenerateResource.cache
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\obj\Debug\Email and Phone Number Validator.csproj.CoreCompileInputs.cache
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\obj\Debug\Email and Phone Number Validator.exe
+C:\Users\Xander47\Documents\GitHub\Email-and-Phone-number-validation\Email and Phone Number Validator\obj\Debug\Email and Phone Number Validator.pdb
